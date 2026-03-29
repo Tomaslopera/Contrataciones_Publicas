@@ -1,0 +1,39 @@
+id_caracteristicas_generales,es_grupo,es_pyme,liquidacion,oblicacion_ambiental,espostconflicto,origen_de_los_recursos,destino_gasto
+1,False,False,False,False,False,Distribuido,Funcionamiento
+2,False,False,False,True,False,Distribuido,Inversión
+3,False,False,False,False,False,Distribuido,Inversión
+4,False,True,True,False,False,Distribuido,Inversión
+5,False,False,False,False,False,Recursos Propios,Funcionamiento
+6,False,False,False,False,False,Recursos Propios,Inversión
+7,False,True,False,False,False,Distribuido,Inversión
+8,False,False,True,False,False,Recursos Propios,Funcionamiento
+9,False,False,False,False,True,Distribuido,Funcionamiento
+10,False,False,True,False,False,Distribuido,Funcionamiento
+11,False,True,False,False,False,Distribuido,Funcionamiento
+12,False,True,False,False,False,Recursos Propios,Inversión
+13,False,True,False,False,False,Recursos Propios,Funcionamiento
+14,False,False,True,False,False,Distribuido,Inversión
+15,False,True,True,False,False,Distribuido,Funcionamiento
+16,False,True,True,False,False,Recursos Propios,Funcionamiento
+17,False,False,True,False,False,Recursos Propios,Inversión
+18,False,False,False,False,False,Distribuido,No Definido
+19,False,False,False,False,True,Distribuido,Inversión
+20,True,True,False,False,False,Distribuido,Funcionamiento
+21,True,False,True,False,False,Distribuido,Funcionamiento
+22,True,False,False,False,False,Distribuido,Funcionamiento
+23,False,False,True,True,False,Distribuido,Inversión
+24,False,False,False,True,False,Distribuido,Funcionamiento
+25,False,False,False,True,False,Recursos Propios,Inversión
+26,False,False,True,False,False,Distribuido,No Definido
+27,False,True,False,False,False,Distribuido,No Definido
+28,False,False,False,True,False,Recursos Propios,Funcionamiento
+29,True,False,True,True,False,Distribuido,Funcionamiento
+30,False,True,True,False,False,Recursos Propios,Inversión
+31,False,True,False,True,False,Distribuido,Inversión
+32,False,True,True,True,True,Distribuido,Funcionamiento
+33,True,False,True,False,False,Recursos Propios,Inversión
+34,False,True,True,False,False,Distribuido,No Definido
+35,True,False,True,False,False,Distribuido,Inversión
+36,False,False,False,False,True,Recursos Propios,Inversión
+37,False,False,True,True,False,Distribuido,Funcionamiento
+38,False,True,False,False,True,Distribuido,Inversión
