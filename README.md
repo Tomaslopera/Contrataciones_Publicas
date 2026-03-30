@@ -11,8 +11,6 @@ The pipeline extracts raw data, processes it, and makes it available for analyti
 - Cloud-ready
 - Easily orchestrated with Airflow
 
----
-
 ## Architecture
 
 ### AWS Deployment Flow
